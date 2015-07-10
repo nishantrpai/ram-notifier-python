@@ -1,0 +1,3 @@
+python ram.py &
+disown
+
